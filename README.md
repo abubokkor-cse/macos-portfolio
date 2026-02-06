@@ -2,7 +2,7 @@
 
 A stunning and interactive macOS-inspired web portfolio that replicates the Apple desktop experience with resizable windows, smooth animations, and authentic macOS UI elements.
 
-![macOS Portfolio Preview](https://via.placeholder.com/800x500/000000/FFFFFF?text=macOS+Portfolio+Preview)
+![macOS Portfolio Preview](public/images/homepage.png)
 
 ## ✨ Features
 
@@ -129,9 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **Md. Abu Bokkor**
-- 📧 Email: [abubokkor.cse@gmail.com](mailto:abubokkor.cse@gmail.com)
-- 🐙 GitHub: [@abubokkor-cse](https://github.com/abubokkor-cse)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/md-abubokkor)
+-  LinkedIn: [Connect with me](https://www.linkedin.com/in/md-abubokkor)
 
 ## 🙏 Acknowledgments
 
